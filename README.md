@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jnors
-- 👀 I’m interested in .NET and DevOps
+- 👋 Hi, I’m João Silva, a Network Engineer turned Software Developer from Portugal!
+- 👀 I’m interested in Networking, .NET and DevOps
 - 🌱 I’m currently learning Blazor, microservices and AWS
 - 📫 You can reach me on https://www.linkedin.com/in/jnorsilva/
 
