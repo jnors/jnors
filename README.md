@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 Engineer → Product → Sales<br>📡 Wireless, ICT & Software tinkerer<br>🚀 Building SessionFlow (coaching platform)<br>💻 Building Websites using Node.JS, Next.JS and Typescript<br>✍️ Writing Wireless in the Making<br>🤝 Pre-sales & partner enablement @ Rajant<br>⚡ Into AI tools, no-code hacks & side projects<br>🍳 Cooking, 🏀 basketball, ✈️ travel addict
 
 
